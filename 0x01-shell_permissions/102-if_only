@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty -ifonly hello=guillaume
+sudo chown --from=guillaume betty hello
